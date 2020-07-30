@@ -12,6 +12,7 @@
 <br>
 <br>
 
+<br><br><br><br><br><br><br><br><br><br>
 [![support][support-image]][support-invite]
 
 [support-invite]: https://beta.helper.wtf/api/discord
