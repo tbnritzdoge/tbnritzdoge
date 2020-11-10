@@ -29,4 +29,4 @@
 [![support][support-image]][support-invite]
 
 [support-invite]: https://beta.helper.wtf/api/discord
-[support-image]: http://invidget.switchblade.xyz/S49jQSb
+[support-image]: http://invidget.helper.wtf/S49jQSb
