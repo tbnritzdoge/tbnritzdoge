@@ -2,4 +2,4 @@
  
  I write cool stuff in Rust
  
- ![wakatime](https://wakatime.com/share/@doge/2c27b14c-0edf-4afa-a0cb-c77022e0a909.svg)
+ ![wakatime](https://wakatime.com/share/@doge/1e93f296-95be-4aee-845a-6fcec82f22cd.svg)
